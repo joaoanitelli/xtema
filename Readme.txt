@@ -1,0 +1,9 @@
+- Ajustar virgula no preço do produto;
+- Ajustar para não permitir letras no campo de texto;
+- Exibir o código na sequência do adicionar produto;
+- Criar o deletar produto;
+- Colocar tudo em função;
+- Ordenar campos da tabela;
+- Manter o class active do navbar ao trocar de pagina;
+- Ajustar altura do background da lista de produtos;
+- Deixar o Cabeçalho da Tabela fixo ao descer (scroll);

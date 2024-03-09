@@ -1,0 +1,24 @@
+input {
+    margin: 0 !important;
+}
+
+.body-venda-direta {
+    display: flex;
+    width: 100%;
+}
+
+.div-pesquisa {
+    display: flex;
+    width: 50%;
+    flex-direction: column;
+}
+
+.div-lista-pesquisa {
+    display: flex;
+    width: 50%;
+}
+
+.card-pesquisa {
+    background-color: lightgray;
+    padding: 20px;
+}
